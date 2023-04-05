@@ -1,2 +1,3 @@
-node_modules
-*.json
+/node_modules
+data.json
+result.json
